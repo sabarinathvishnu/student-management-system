@@ -38,9 +38,9 @@ CREATE TABLE `student` (
 --
 
 INSERT INTO `student` (`id`, `stdname`, `stdreg`) VALUES
-(3, 'Sabari nath', '22'),
-(4, 'Vishnu', '55'),
-(7, 'Arjun krishna', '21');
+(3, 'sabarinath', '22'),
+(4, 'vishnu ', '5555555'),
+(7, 'Arjun krishna', '201');
 
 --
 -- Indexes for dumped tables
